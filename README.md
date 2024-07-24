@@ -1,4 +1,4 @@
-# TFG-Toma6Game
+# TFG - ¡Toma6! Game
 This is my Final Degree Project in Computer Engineering with a final grade of 9.5, the game "Take 6!" has been replicated, using the Python language and with libraries such as PyGame and TensorFlow, creating a personal database with data from automatic games between medium and hard difficulties.
 
 These are the 4 difficulties that have been created: 
